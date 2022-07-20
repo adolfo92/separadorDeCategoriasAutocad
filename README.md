@@ -1,7 +1,7 @@
 # separadorDeCategoriasAutocad
 Separador simple en python de puntos para graficar desde autocad
 
-###Suponiendo una configuracion del tipo:
+### Suponiendo una configuracion del tipo:
 nroLista Coordenada Coordenada numeroX clasificacion
 
 En una lista muy larga de datos distribuidos de esta forma, el programa toma cada linea, lee la clasificacion y ubica el contenido completo de la linea en un archivo de texto con el nombre de la misma
