@@ -1,0 +1,17 @@
+Abre archivo de texto XXX
+
+Lee una linea completa XXX
+
+	Copia los caracteres de la ultima columna XXX
+
+	Almacena Los caracteres como nombre de variable XXX
+
+	Revisar si archivo con nombre de variable existe XXX
+
+	Si existe: Copia el contenido de la linea completo en el archivo
+
+	Si NO existe:
+
+		Crea archivo con nombre de variable
+
+		Copia el contenido de la linea en el archivo
